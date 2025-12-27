@@ -1,5 +1,5 @@
 package com.rakshaa;
-public class Append1 {
+public class Capacity5append {
 	public static void main(String[] args) {
 		
 		StringBuffer sb = new StringBuffer();
